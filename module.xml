@@ -4,7 +4,7 @@
     <Module>
       <Name>iris-jms-sample</Name>
       <Description>A simple IRIS interoperability application - JMS</Description>
-      <Version>1.0.0</Version>
+      <Version>1.0.1</Version>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
       <Resource Name="dc.Demo.PKG"/>
